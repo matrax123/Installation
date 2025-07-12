@@ -51,7 +51,7 @@ Ce guide explique comment installer et configurer les bots vendus ou loués par 
    * Ajoutez le bot à votre serveur via ce lien.
 
 3. **Communication du token**  
-   * Envoyez le token généré au staff Code Works via le canal Discord **#gestion-locations**.  
+   * Envoyez le token généré au staff Code Works via le canal Discord **#「🔧」gestion-locations**.  
    * Le staff configurera et démarrera le bot hébergé pour vous avec ce token.
 
 ## Support et contact
