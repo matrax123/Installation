@@ -8,7 +8,9 @@ Ce guide explique comment installer et configurer les bots vendus ou loués par 
 2. **Création de l'application Discord**  
    * Rendez-vous sur le [Discord Developer Portal](https://discord.com/developers/applications).  
    * Cliquez sur **"New Application"** pour créer une nouvelle application.  
-   * Donnez un nom à votre application et confirmez.
+   * Donnez un nom à votre application et confirmez.  
+   * Dans l'onglet **"Installation"**, dans la section **"Install Link"**, sélectionnez **None**.  
+   * Dans l'onglet **"Bot"**, décochez la case **"Public Bot"**.
 
 3. **Activation des intents**  
    Dans l'onglet **"Bot"** :  
@@ -41,7 +43,8 @@ Ce guide explique comment installer et configurer les bots vendus ou loués par 
 1. **Création de l'application Discord**  
    * Comme pour un bot acheté, vous devez créer une application Discord sur le [Discord Developer Portal](https://discord.com/developers/applications).  
    * Activez les 3 intents nécessaires (Presence Intent, Server Members Intent, Message Content Intent).  
-   * Générez un token via **"Reset Token"** et copiez-le.
+   * Générez un token via **"Reset Token"** et copiez-le.  
+   * Pensez aussi à mettre **Install link** sur **None** dans l'onglet "**Installation**" et décocher **Public Bot** dans l'onglet **Bot**.
 
 2. **Ajout du bot au serveur Discord**  
    * Utilisez l’onglet **"OAuth2"** → **"URL Generator"** pour générer un lien d’invitation avec le scope **"bot"** et la permission **"Administrator"**.  
@@ -58,4 +61,3 @@ Pour toute question ou problème concernant l’installation ou la location/acha
 * Serveur Discord Code Works : [Invitation](https://discord.gg/8X25qRmUh2)  
 
 * Contact direct : [@matrax.dev](https://discord.com/users/1235588660854915132)  
-
