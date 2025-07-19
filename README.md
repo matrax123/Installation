@@ -52,7 +52,7 @@ Ce guide explique comment installer et configurer les bots vendus ou loués par 
 
 3. **Communication du token**  
    * Envoyez le token généré au staff Code Works via le canal Discord **#「🔧」gestion-locations**.  
-   * Le staff configurera et démarrera le bot hébergé pour vous avec ce token.
+   * Il vous suffit ensuite de lancer le bot depuis ce même canal avec la fonctionnalité prévue à cet effet.
 
 ## Support et contact
 Pour toute question ou problème concernant l’installation ou la location/achat des bots, veuillez contacter le staff de Code Works dans le salon **#「🎫」tickets** ou via message privé.
